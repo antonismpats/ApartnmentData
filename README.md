@@ -1,5 +1,5 @@
 # ApartnmentData
-This SQL script is part of a data preprocessing or cleaning project, related to USA real estate data stored in the "ApartmentData" table.
+This SQL script is part of a data preprocessing or cleaning project, related to USA real estate data stored in the "ApartmentData" table. The quert run on SQL Server Management Studio 19.
 
 Let's analyze each section of the script:
 
