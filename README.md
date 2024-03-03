@@ -1,7 +1,7 @@
 # ApartnmentData
 This SQL script is part of a data preprocessing or cleaning project, related to USA real estate data stored in the "ApartmentData" table.
 
-Let's break down the analysis:
+Let's analyze each section of the script:
 
 ## Select Top 50 Data:
 
